@@ -1,0 +1,13 @@
+zocai---数据库名
+
+
+zocai_login_user---登录数据表
+1：uid--          ID
+2: uname--        用户名
+3：upwd--         用户密码
+4：cfupwd--	  用户重复密码
+5：tuxingyz--	  图形验证码
+6：phone--	  手机号
+7：email--	  邮箱
+8：email_upwd--   邮箱密码
+9：gender--       用户性别
